@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@prakash51908111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@prakash51908111" height="30" width="40" /></a>
+<a href="https://twitter.com/@prakash51908111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prakash51908111" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prakash-choubey-4aa9b3a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakash-choubey-4aa9b3a4" height="30" width="40" /></a>
 <a href="https://fb.com/http://www.facebook.com/prakash.k.chaubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="http://www.facebook.com/prakash.k.chaubey" height="30" width="40" /></a>
 <a href="https://instagram.com/prakash_chaubey0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakash_chaubey0" height="30" width="40" /></a>
